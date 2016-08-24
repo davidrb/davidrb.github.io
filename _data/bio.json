@@ -62,47 +62,46 @@
       "keywords": [
         "C",
         "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Ruby",
+        "Ruby on Rails"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Arch Linux",
+        "gradle",
+        "git",
+        "gcc",
+        "STM32F3x"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Engineering (expected 2018)",
       "studyType": "B.S.",
       "startDate": "2013-09-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
+          "EE160", "EE205", "PHYS610"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "The MITRE Coorporation",
+      "position": "Web Developer/System Administrator Intern",
       "website": "",
       "startDate": "2015-08-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Worked Ruby on Rails application",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Setup Apache, MySQL servers on Debian Linux Server",
+        "Help develop backend for Rails based web application"
       ]
     },
     {
