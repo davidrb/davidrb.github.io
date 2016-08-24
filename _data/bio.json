@@ -31,8 +31,8 @@
     {
       "name": "embedded programming",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Arm",
+        "STM32F3x"
       ]
     },
     {
