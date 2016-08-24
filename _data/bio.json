@@ -29,21 +29,30 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "embedded programming",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "web development",
+      "keywords": [
+          "Ruby on Rails", 
+          "Ruby",
+          "Rails"
+      ]
+    },
+    {
+      "name": "physics",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
-      "keywords": [
-      ]
+        "name":"mathematics",
+        "keywords": [
+            "Topological Manifolds"
+        ]
     }
   ],
   "skills": [
