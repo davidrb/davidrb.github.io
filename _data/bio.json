@@ -34,30 +34,30 @@
   },
   "interests": [
     {
-      "name": "embedded programming",
+      "name": "Embedded Programming",
       "keywords": [
         "Arm",
         "STM32F3x"
       ]
     },
     {
-      "name": "web development",
+      "name": "Web Development",
       "keywords": [
-          "Ruby on Rails", 
           "Ruby",
-          "Rails"
+          "Ruby on Rails"
       ]
     },
     {
-      "name": "physics",
+      "name": "Physics",
       "keywords": [
+          "General Relativity"
       ]
     },
     {
-        "name":"mathematics",
-        "keywords": [
-            "Topological Manifolds"
-        ]
+      "name":"Mathematics",
+      "keywords": [
+        "Topological Manifolds"
+      ]
     }
   ],
   "skills": [
@@ -65,7 +65,6 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
         "C++",
         "Ruby",
         "Ruby on Rails"
@@ -76,7 +75,7 @@
       "level": "",
       "keywords": [
         "Arch Linux",
-        "gradle",
+        "Gradle",
         "git",
         "gcc",
         "STM32F3x"
@@ -88,9 +87,9 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Engineering (expected 2018)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2014-09-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.2",
       "courses": [
           "EE160", "EE205", "PHYS610"
       ]
@@ -98,12 +97,22 @@
   ],
   "work": [
     {
+      "company": "Open Power Quality",
+      "position": "Embedded Software Developer",
+      "website": "https://openpowerquality.org",
+      "startDate": "2016",
+      "endDate": "Present",
+      "summary": "Developed firmware for an open source power quality meter",
+      "highlights": [
+        "Targeted an Arm Cortex-m4 digital signal processor"
+      ]
+    },
+    {
       "company": "Booz Allen Hamilton",
       "position": "2016 Summer Games Intern",
       "website": "http://www.boozallen.com/careers/find-your-job/graduating-students/strategic-innovation-games",
-      "startDate": "2015-06-01",
-      "endDate": "2016-08-15",
-      "summary": "Participated in Booz Allen Hamiltons 2016 Summer Games",
+      "startDate": "2016",
+      "summary": "Participated in Booz Allen Hamilton's 2016 Summer Games",
       "highlights": [
         "Developed Virtual Reality mobile application for the Pacific Aviation Museum",
         "Pitched project at Booz Allen Hamilton's Washington D.C headquarters"
@@ -113,54 +122,38 @@
       "company": "The MITRE Coorporation",
       "position": "Web Developer/System Administrator Intern",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
+      "startDate": "2015",
       "summary": "Worked Ruby on Rails application",
       "highlights": [
-        "Setup Apache, MySQL servers on Debian Linux Server",
-        "Help develop backend for Rails based web application"
+        "Setup Apache, Ruby on Rails, and MySQL on Cent OS development server",
+        "Worked on backend for Rails based web application"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "National Society of Collegiate Scholars",
+      "website": "https://nscs.org",
+      "position": "Member",
+      "startDate": "2015",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Booz Allen Hamilton Ideas Festival, Second Place",
+      "date": "Fall 2016",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Pitched Open Power Quality, was invited to participate in 2016 Booz Allen Hamilton Summer Games intern program"
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Dean's List",
+      "date": "Fall 2014, Spring 2015",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "I made the Dean's List two semesters"
     }
   ],
   "references": [
