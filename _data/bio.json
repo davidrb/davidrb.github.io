@@ -22,7 +22,7 @@
       },
       {
         "network": "linkedin",
-        "username": "david-badke-80a969113",
+        "username": "david-badke",
         "url": "http://linkedin.com/in/david-badke-80a969113"
       }
     ]
@@ -93,6 +93,18 @@
   ],
   "work": [
     {
+      "company": "Booz Allen Hamilton",
+      "position": "2016 Summer Games Intern",
+      "website": "http://www.boozallen.com/careers/find-your-job/graduating-students/strategic-innovation-games",
+      "startDate": "2015-06-01",
+      "endDate": "2016-08-15",
+      "summary": "Participated in Booz Allen Hamiltons 2016 Summer Games",
+      "highlights": [
+        "Developed Virtual Reality mobile application for the Pacific Aviation Museum",
+        "Pitched project at Booz Allen Hamilton's Washington D.C headquarters"
+      ]
+    },
+    {
       "company": "The MITRE Coorporation",
       "position": "Web Developer/System Administrator Intern",
       "website": "",
@@ -102,18 +114,6 @@
       "highlights": [
         "Setup Apache, MySQL servers on Debian Linux Server",
         "Help develop backend for Rails based web application"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
       ]
     }
   ],
