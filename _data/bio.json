@@ -16,6 +16,11 @@
     },
     "profiles": [
       {
+        "network": "gitlab",
+        "username": "davidrb",
+        "url": "https://gitlab.com"
+      },
+      {
         "network": "github",
         "username": "davidrb",
         "url": "http://github.com/davidrb"
